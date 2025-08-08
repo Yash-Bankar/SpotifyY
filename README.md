@@ -107,8 +107,4 @@ project-root/
 
 ---
 
-## 📄 License
 
-MIT License © 2025
-
----

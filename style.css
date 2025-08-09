@@ -718,16 +718,16 @@ nav {
 }
 
 .abovebar .songinfo{
-    font-size: 13px;
+    font-size: 7px;
 }
 .abovebar .songtime{
-    font-size: 13px;
+    font-size: 7px;
 }
 .player .playingbuts {
     display: flex;
     justify-content: center;
 
-    gap: 5px;
+    gap: 0px;
 
 
 }

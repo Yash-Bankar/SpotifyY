@@ -681,8 +681,8 @@ nav {
     }
 
     .player{
-        position: relative;
-        bottom: 0px;
+        position: fixed;
+        bottom: 50px;
         height: 10vh;
         margin-left: 10px;
     }

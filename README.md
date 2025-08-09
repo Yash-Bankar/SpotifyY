@@ -127,8 +127,6 @@ Mobile — Screens
 <div style="display:flex;gap:12px;flex-wrap:nowrap;overflow-x:auto;align-items:flex-start;padding-top:8px;"> <img src="docs/screenshots/mobile-home.jpg" alt="Mobile home view" style="width:32%;min-width:140px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.35);"> <img src="docs/screenshots/mobile-library.jpg" alt="Mobile library drawer" style="width:32%;min-width:140px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.35);"> <img src="docs/screenshots/mobile-playing.jpg" alt="Mobile playing view" style="width:32%;min-width:140px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.35);"> </div>
 
 
-**Image recommendations:** JPG or PNG, width \~1200px for desktop screenshots, \~800px for mobile. Name images exactly (no spaces) to keep the markdown simple.
-
 ---
 
 ## 🔧 Adding `Favorites` to `songs.json`

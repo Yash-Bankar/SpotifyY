@@ -121,7 +121,7 @@ Include screenshots to visually demonstrate the desktop and mobile behaviors. Re
 
 Place your images in the repo (recommended path: `docs/screenshots/`) then embed using Markdown, for example:
 
-```markdown
+markdown
 ### Desktop — All songs
 ![Desktop main view](docs/screenshots/pc-main.png)
 
@@ -136,7 +136,8 @@ Place your images in the repo (recommended path: `docs/screenshots/`) then embed
 
 ### Mobile — Playing
 ![Mobile playing view](docs/screenshots/mobile-playing.jpg)
-```
+
+
 
 **Image recommendations:** JPG or PNG, width \~1200px for desktop screenshots, \~800px for mobile. Name images exactly (no spaces) to keep the markdown simple.
 

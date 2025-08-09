@@ -117,9 +117,7 @@ Include screenshots to visually demonstrate the desktop and mobile behaviors. Re
 4. **mobile-library.png** — Mobile library drawer open (shows playlists list).
 5. **mobile-playing.png** — Mobile player in playing state (bottom controls + lock-screen/notification sample if available).
 
-### How to embed screenshots in this README
 
-Place your images in the repo (recommended path: `docs/screenshots/`) then embed using Markdown, for example:
 
 Desktop — All songs
 <div style="display:flex;gap:16px;flex-wrap:nowrap;align-items:flex-start;"> <img src="docs/screenshots/pc-main.png" alt="Desktop main view" style="width:49%;max-width:800px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.4);"> <img src="docs/screenshots/pc-playlist-open.png" alt="Desktop playlist view" style="width:49%;max-width:800px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.4);"> </div>

@@ -533,6 +533,7 @@ nav {
     width: 99%;
     height: 10vh;
     justify-content: center;
+    background-color: black;
 }
 .abovebar{
     position: absolute;

@@ -682,7 +682,7 @@ nav {
 
     .player{
         position: fixed;
-        bottom: 50px;
+        bottom: 5px;
         height: 10vh;
         margin-left: 10px;
     }

@@ -94,22 +94,11 @@ This project is designed to be used as a hosted web app (example: `https://spoti
 
 ---
 
-## ❤️ My Favorite Songs
-
-This section is reserved for your personal favorites. (No song names are listed here by default.)
-
-* To add your favourites to the README, you can either:
-
-  * Paste a short list of song titles below this heading, or
-  * Add a `Favorites` playlist entry to `songs.json` so it shows inside the app.
-
-> Tip: If you want me to add a `Favorites` snippet to `songs.json`, I can generate it once you confirm the filenames.
+## ❤️ Added some of My Favorite Songs
 
 ---
+## 🖼 Screenshots
 
-## 🖼 Screenshots (add your images here)
-
-Include screenshots to visually demonstrate the desktop and mobile behaviors. Recommended screenshots (filenames suggested):
 
 1. **pc-main.png** — Desktop main view showing all songs and the left library.
 2. **pc-playlist-open.png** — Desktop view after clicking a playlist (filtered view).
@@ -171,9 +160,4 @@ Make sure file names and folders match the real files inside `img/songs/`.
 
 ---
 
-If you want, I can now:
 
-* Embed actual screenshots into the README for you — upload the images and I will insert the Markdown image tags in the correct places.
-* Generate a ready-to-copy `songs.json` `Favorites` snippet using exact filenames from your repo if you confirm them.
-
-Tell me which you want next.

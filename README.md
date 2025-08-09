@@ -121,22 +121,10 @@ Include screenshots to visually demonstrate the desktop and mobile behaviors. Re
 
 Place your images in the repo (recommended path: `docs/screenshots/`) then embed using Markdown, for example:
 
-markdown
-### Desktop — All songs
-![Desktop main view](docs/screenshots/pc-main.png)
-
-### Desktop — Playlist filtered
-![Desktop playlist view](docs/screenshots/pc-playlist-open.png)
-
-### Mobile — Home
-![Mobile home view](docs/screenshots/mobile-home.jpg)
-
-### Mobile — Library drawer
-![Mobile library drawer](docs/screenshots/mobile-library.jpg)
-
-### Mobile — Playing
-![Mobile playing view](docs/screenshots/mobile-playing.jpg)
-
+Desktop — All songs
+<div style="display:flex;gap:16px;flex-wrap:nowrap;align-items:flex-start;"> <img src="docs/screenshots/pc-main.png" alt="Desktop main view" style="width:49%;max-width:800px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.4);"> <img src="docs/screenshots/pc-playlist-open.png" alt="Desktop playlist view" style="width:49%;max-width:800px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.4);"> </div>
+Mobile — Screens
+<div style="display:flex;gap:12px;flex-wrap:nowrap;overflow-x:auto;align-items:flex-start;padding-top:8px;"> <img src="docs/screenshots/mobile-home.jpg" alt="Mobile home view" style="width:32%;min-width:140px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.35);"> <img src="docs/screenshots/mobile-library.jpg" alt="Mobile library drawer" style="width:32%;min-width:140px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.35);"> <img src="docs/screenshots/mobile-playing.jpg" alt="Mobile playing view" style="width:32%;min-width:140px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.35);"> </div>
 
 
 **Image recommendations:** JPG or PNG, width \~1200px for desktop screenshots, \~800px for mobile. Name images exactly (no spaces) to keep the markdown simple.
